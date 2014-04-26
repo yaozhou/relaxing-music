@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/auto_quit_15"          
+          android:title="定时关闭:15分钟"
+          android:showAsAction="never" />
+    <item android:id="@+id/auto_quit_30"          
+          android:title="定时关闭:30分钟"
+          android:showAsAction="never" />
+    <item android:id="@+id/auto_quit_45"          
+          android:title="定时关闭:45分钟"
+          android:showAsAction="never" />
+    <item android:id="@+id/auto_quit_60"          
+          android:title="定时关闭:60分钟"
+          android:showAsAction="never" />
+    <item android:id="@+id/auto_quit_90"          
+          android:title="定时关闭:90分钟"
+          android:showAsAction="never" />
+    <item android:id="@+id/auto_quit_120"          
+          android:title="定时关闭:120分钟"
+          android:showAsAction="never" />
+    <item android:id="@+id/download"
+	  android:title="下载音效资源"
+	  android:showAsAction="never" />
+    <item android:id="@+id/test1"
+	  android:title="测试1"
+	  android:showAsAction="never" />
+    <item android:id="@+id/test2"
+	  android:title="测试2"
+	  android:showAsAction="never" />
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/quit"
+          android:title="退出"
+          android:showAsAction="never" />
+</menu>

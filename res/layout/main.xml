@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Player, MainActivity"
+    />
+
+<Button android:id="@+id/btnStart1" 
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="play music1"/>
+
+<Button android:id="@+id/btnStop1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="stop music1"/>
+
+<Button android:id="@+id/btnStart2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="play music2"/>
+
+<Button android:id="@+id/btnStop2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="stop music2"/>
+
+<Button android:id="@+id/btnStart3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="play music3"/>
+
+<Button android:id="@+id/btnStop3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="stop music3"/>
+
+</LinearLayout>
+

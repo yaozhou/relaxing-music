@@ -1,0 +1,21 @@
+/mnt/develop/android-dev/MyPlayer/gen/com/ayao/player/R.java \
+ : /mnt/develop/android-dev/MyPlayer/res/drawable-mdpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/res/drawable-mdpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/res/menu/main_activity_actions.xml \
+/mnt/develop/android-dev/MyPlayer/res/drawable-xhdpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/res/drawable-xhdpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/res/layout/main.xml \
+/mnt/develop/android-dev/MyPlayer/res/drawable-hdpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/res/drawable-hdpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/res/values/strings.xml \
+/mnt/develop/android-dev/MyPlayer/res/drawable-ldpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/res/drawable-ldpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-mdpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-mdpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-xhdpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-xhdpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-hdpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-hdpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-ldpi/icon.png \
+/mnt/develop/android-dev/MyPlayer/bin/res/drawable-ldpi/ic_launcher.png \
+/mnt/develop/android-dev/MyPlayer/bin/AndroidManifest.xml \

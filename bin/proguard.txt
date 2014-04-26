@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:22
+-keep class com.ayao.player.DownloadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.ayao.player.LocalMusicService { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.ayao.player.MainActivity { <init>(...); }
+
